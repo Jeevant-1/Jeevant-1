@@ -72,7 +72,7 @@ I am a dedicated <b>Data Analyst</b> with a strong <b>data analysis</b>, <b>visu
 
  <h2> <img src="https://drive.google.com/uc?export=view&id=14ZRUAuREugDJmlzk84EyRTzHJyyL2SIV" width="25" height="25" alt="Description of GIF"> Connect With Me   </h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeevant%20Singh-blue?logo=linkedin)]([https://www.linkedin.com/in/salil-singh-7164a6287](https://www.linkedin.com/in/jeevant-singh-8b9376232/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeevant%20Singh-blue?logo=linkedin)](https://www.linkedin.com/in/jeevant-singh-8b9376232/))
 
 [![GitHub](https://img.shields.io/badge/GitHub-Salil--Singh--01-black?logo=github)]([https://github.com/Salil-Singh-01](https://www.linkedin.com/in/jeevant-singh-8b9376232/))
 
