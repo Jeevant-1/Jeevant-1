@@ -74,7 +74,7 @@ I am a dedicated <b>Data Analyst</b> with a strong <b>data analysis</b>, <b>visu
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeevant%20Singh-blue?logo=linkedin)](https://www.linkedin.com/in/jeevant-singh-8b9376232/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Jeevant-1-black?logo=github)]([https://github.com/Salil-Singh-01](https://www.linkedin.com/in/jeevant-singh-8b9376232/))
+[![GitHub](https://img.shields.io/badge/GitHub-Jeevant-1-black?logo=github)]((https://github.com/Jeevant-1)](https://www.linkedin.com/in/jeevant-singh-8b9376232/))
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-salilsingh2000-blue?logo=kaggle)](https://www.kaggle.com/salilsingh2000)
 
