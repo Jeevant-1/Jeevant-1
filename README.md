@@ -80,7 +80,7 @@ I am a dedicated <b>Data Analyst</b> with a strong <b>data analysis</b>, <b>visu
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-jeevant1987-orange?logo=leetcode)](https://leetcode.com/u/jeevant1987/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-salilsingh709%40gmail.com-red?logo=gmail)](mailto:salilsingh709@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-jeevant1111111%40gmail.com-red?logo=gmail)](mailto:jeevant1111111@gmail.com)
 
 ![Location](https://img.shields.io/badge/Location-Rewa,_Madhya_Pradesh-blue?logo=google-maps)
 
