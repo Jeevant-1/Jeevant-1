@@ -76,9 +76,9 @@ I am a dedicated <b>Data Analyst</b> with a strong <b>data analysis</b>, <b>visu
 
 [![GitHub](https://img.shields.io/badge/GitHub-Jeevant--1-black?logo=github)](https://github.com/Jeevant-1)
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-jeevantsingh559-blue?logo=kaggle)](https://www.kaggle.com/jeevantsingh559))
+[![Kaggle](https://img.shields.io/badge/Kaggle-jeevantsingh559-blue?logo=kaggle)](https://www.kaggle.com/jeevantsingh559)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-salilsingh2000-orange?logo=leetcode)](https://leetcode.com/salilsingh2000)
+[![LeetCode](https://img.shields.io/badge/LeetCode-jeevant1987-orange?logo=leetcode)](https://leetcode.com/u/jeevant1987/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-salilsingh709%40gmail.com-red?logo=gmail)](mailto:salilsingh709@gmail.com)
 
